@@ -27,4 +27,21 @@ sehen ist sind die drei Nachrichten Websiten aus Russland mit der größten Reic
 3. Rg.ru
 
 
+# Bild.de
 
+ToDo
+
+# T-Omline COntentangebot
+
+Todo
+
+# n-tv.de
+
+Todo
+
+# Russische Websiten
+
+Fragen klären:
+
+1. Ist es gefährlich?
+2. Übersetzungsoftware besorgen
