@@ -13,12 +13,18 @@ Die Methode zur Analyse der Texte wird im Laufe der Vorlesung entwickelt.
 ## WebScraping 
 
 Wie in der Statistik von [Statista](https://www-statista-com.thn.idm.oclc.org/statistics/442988/most-visited-news-websites-germany/)(Aufgerufen 18.4.22) zu 
-sehen ist sind die drei Nachrichten Websiten aus Deutschland mit der größten Reichweite:
+sehen ist sind die drei Nachrichten Websiten aus Deutschland mit der größten Reichweite für Februar 2022:
 
 1. Bild.de
 2. T-Online Contentangebot
 3. n-tv.de
 
-![alt text](https://github.com/Freshpinguin/WebScraping/blob/main/Sources/GermanyNewsWebsitesReach.png)
+Wie in der Statistik von [Statista](https://www-statista-com.thn.idm.oclc.org/download/MTY1MDI3ODU2NSMjNjQ1MTMjIzExOTUyODAjIzEjI3BkZiMjU3RhdGlzdGlj)(Aufgerufen 18.4.22) zu 
+sehen ist sind die drei Nachrichten Websiten aus Russland mit der größten Reichweite für August 2021:
 
-![alt text](https://github.com/Freshpinguin/WebScraping/blob/main/Sources/RussiaNewsWebsitesReach.png)
+1. Lenta.ru
+2. Kp.ru
+3. Rg.ru
+
+
+
