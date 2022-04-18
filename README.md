@@ -10,3 +10,5 @@ Können Methoden zur Textanalyse und Webscraping benutzt werden, um Unterschiede
 Als Datenbasis sollen Veröffentlichungen der jeweils drei größten Nachrichtenwebsiten aus Russland und Deutschland herangezogen werden.
 Die Methode zur Analyse der Texte wird im Laufe der Vorlesung entwickelt.
 
+
+![alt text](https://github.com/Freshpinguin/WebScraping/blob/main/Sources/GermanyNewsWebsitesReach.pdf)
