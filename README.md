@@ -12,8 +12,12 @@ Die Methode zur Analyse der Texte wird im Laufe der Vorlesung entwickelt.
 
 ## WebScraping 
 
-Wie in [Link zu Statista](https://www-statista-com.thn.idm.oclc.org/statistics/442988/most-visited-news-websites-germany/) zu 
+Wie in der Statistik von [Statista](https://www-statista-com.thn.idm.oclc.org/statistics/442988/most-visited-news-websites-germany/)(Aufgerufen 18.4.22) zu 
+sehen ist sind die drei Nachrichten Websiten aus Deutschland mit der größten Reichweite:
 
+1. Bild.de
+2. T-Online Contentangebot
+3. n-tv.de
 
 ![alt text](https://github.com/Freshpinguin/WebScraping/blob/main/Sources/GermanyNewsWebsitesReach.png)
 
