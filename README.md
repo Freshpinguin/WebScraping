@@ -12,3 +12,5 @@ Die Methode zur Analyse der Texte wird im Laufe der Vorlesung entwickelt.
 
 
 ![alt text](https://github.com/Freshpinguin/WebScraping/blob/main/Sources/GermanyNewsWebsitesReach.pdf)
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
