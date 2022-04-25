@@ -27,17 +27,38 @@ sehen ist sind die drei Nachrichten Websiten aus Russland mit der größten Reic
 3. Rg.ru
 
 
+### Deutsche News Websiten
+
+Dateiformat:
+
+Für jede Seite gibt es eine Funktion "get_article_content(url)"
+Diese gibt:
+
+ 'title': title,
+        'kicker': kicker,
+        'author':author,
+        'date':date,
+        'text':text,
+        'subheadlines': subheadline,
+        'url': url
+        
+zurück. Wenn eines dieser Attribute nicht vorhanden ist: ''
+(Auf Figcaption wird verzichtet _ Warum? _ Vielleicht doch noch)
+
+
 ### Bild.de
 
-ToDo
+Bild hat ein sehr schönes Archiv, in dem sich alle älteren Artikel befinden. 
 
 ### T-Online Contentangebot
 
-Todo
+T-Online hat kein Archiv, allerdings sind ältere Artikel anscheinend über eine größeren Seitenindex abrufbar (muss noch getestet werden).
 
 ### n-tv.de
 
-Todo
+N-Tv hat kein Archiv, es gibt anscheined keine Möglichkeit ältere Artikel abzurufen (wäre gut wenn doch, nochmal schauen?).
+
+
 
 ### Russische Websiten
 
