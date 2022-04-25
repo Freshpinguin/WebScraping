@@ -56,7 +56,7 @@ T-Online hat kein Archiv, allerdings sind ältere Artikel anscheinend über eine
 
 ### n-tv.de
 
-N-Tv hat kein Archiv, es gibt anscheined keine Möglichkeit ältere Artikel abzurufen (wäre gut wenn doch, nochmal schauen?).
+N-Tv hat kein Archiv, allerdings sind ältere Artikel anscheinend über eine größeren Seitenindex abrufbar (muss noch getestet werden).
 
 
 
